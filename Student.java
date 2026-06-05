@@ -7,3 +7,12 @@ this.id = id;
 this.nom = nom;this.note = note;
 }
 }
+
+
+
+public void ajouter(Student s) {
+    liste.add(s);
+}
+
+
+
